@@ -1,8 +1,13 @@
+# Dependencies
 node_modules
-.vitepress/cache
-.vitepress/temp
-.vitepress/cache
-.vitepress/temp
+
+# VitePress
 .vitepress/cache
 .vitepress/temp
 .vitepress/dist
+.vitepress/.temp
+.vitepress/.cache
+
+# Local development
+.DS_Store
+*.log
