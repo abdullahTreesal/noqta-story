@@ -1,0 +1,24 @@
+:root {
+  --vp-font-family-base: 'IBM Plex Sans Arabic', sans-serif;
+  --vp-font-family-mono: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+/**
+ * Component: All
+ * -------------------------------------------------------------------------- */
+
+
+
+/**
+ * Customize default theme styling by overriding CSS variables:
+ * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+ */
+
+body {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+  
+} 
+
+#VPContent{
+    direction: rtl;
+}
