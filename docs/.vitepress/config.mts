@@ -63,7 +63,26 @@ export default defineConfig({
                   link: "/منتجات شركة تريسال/منصة نقطة/3.منافسيين نقطة.md",
                 },
               ],
-            }]
+            },
+            {
+              text: "منصة نيمو",
+              link: "/منتجات شركة تريسال/nemo/index.md",
+              items: [
+                {
+                  text: "قصة المنصة",
+                  link: "/منتجات شركة تريسال/nemo/1.storynemo.md",
+                },
+                {
+                  text: "الحزم والمزايا",
+                  link: "/منتجات شركة تريسال/nemo/2.plansnemo.md",
+                },
+                {
+                  text: "منافسيين نقطة",
+                  link: "/منتجات شركة تريسال/nemo/3.compatnemo.md",
+                },
+              ],
+            },
+          ]
           },
           
         ],
